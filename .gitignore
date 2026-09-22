@@ -1,0 +1,19 @@
+# Downloaded dataset
+DetectiveQA/
+
+# Evaluation results
+jev_results_twophase/
+jev_results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
